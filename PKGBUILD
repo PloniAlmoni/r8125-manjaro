@@ -1,5 +1,6 @@
 # Maintainer: Shen-Ta Hsieh <ibmibmibm(at)gmail(dot)com>
 # Contributor: Shen-Ta Hsieh <ibmibmibm(at)gmail(dot)com>
+# Forker for Manjaro compatibility: Joshua Lee
 
 _pkgbase=r8125
 pkgname=(r8125 r8125-dkms)
